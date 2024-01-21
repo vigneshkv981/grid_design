@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/grid_design/static/css/main.d4496049.chunk.css",
+    "main.js": "/grid_design/static/js/main.36b26afb.chunk.js",
+    "main.js.map": "/grid_design/static/js/main.36b26afb.chunk.js.map",
+    "runtime-main.js": "/grid_design/static/js/runtime-main.d08bed4a.js",
+    "runtime-main.js.map": "/grid_design/static/js/runtime-main.d08bed4a.js.map",
+    "static/js/2.65fcd7b0.chunk.js": "/grid_design/static/js/2.65fcd7b0.chunk.js",
+    "static/js/2.65fcd7b0.chunk.js.map": "/grid_design/static/js/2.65fcd7b0.chunk.js.map",
+    "static/js/3.139da1ac.chunk.js": "/grid_design/static/js/3.139da1ac.chunk.js",
+    "static/js/3.139da1ac.chunk.js.map": "/grid_design/static/js/3.139da1ac.chunk.js.map",
+    "index.html": "/grid_design/index.html",
+    "precache-manifest.d98a8c7d003000f82568d729ef1bef2d.js": "/grid_design/precache-manifest.d98a8c7d003000f82568d729ef1bef2d.js",
+    "service-worker.js": "/grid_design/service-worker.js",
+    "static/css/main.d4496049.chunk.css.map": "/grid_design/static/css/main.d4496049.chunk.css.map",
+    "static/js/2.65fcd7b0.chunk.js.LICENSE.txt": "/grid_design/static/js/2.65fcd7b0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/grid_design/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d08bed4a.js",
+    "static/js/2.65fcd7b0.chunk.js",
+    "static/css/main.d4496049.chunk.css",
+    "static/js/main.36b26afb.chunk.js"
+  ]
+}
